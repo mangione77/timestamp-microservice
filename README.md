@@ -27,6 +27,11 @@ git clone https://github.com/mangione77/timestamp-microservice
 npm install
 ```
 
+- Then:
+```bash
+node server/index
+```
+
 #### Dependencies
 
 ```js
